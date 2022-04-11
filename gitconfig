@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = manuelatoro311@gmail.com
+	name = manuela toro
